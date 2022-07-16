@@ -2,7 +2,7 @@
 
 Repositório criado para os Desafios de Projetos dos Bootcamps da DIO
 <br>
-<br>
+
 ## **1. Bootcamp Santander Code Girls**
 <br>
 
@@ -13,6 +13,7 @@ Repositório criado para os Desafios de Projetos dos Bootcamps da DIO
   2. Introducao ao Git e ao GitHub
 <br>
 <br>
+
 * ### Módulo II - Começando a Programar em Java
   1. Dominando IDEs Java
   2. 
